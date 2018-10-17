@@ -1,0 +1,7 @@
+build
+config
+node_modules
+scripts
+.DS_Store
+*fire*.*
+.*firebase*
